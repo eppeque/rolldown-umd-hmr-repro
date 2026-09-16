@@ -1,0 +1,13 @@
+{
+	"name": "umd-hmr-repro",
+	"version": "0.0.1",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"fmt": "oxfmt"
+	},
+	"devDependencies": {
+		"oxfmt": "^0.68.0",
+		"rolldown": "1.2.8"
+	}
+}
